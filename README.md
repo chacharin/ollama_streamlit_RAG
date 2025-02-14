@@ -4,7 +4,6 @@ Retrieval-Augmented Generation (RAG) Pipeline แบ่งออกเป็น 
 1️⃣ **Document Ingestion (การนำเข้าและจัดเก็บเอกสาร)**
 2️⃣ **Retrieval & Generation (การค้นหาและสร้างคำตอบ)**
 
-![RAG Pipeline](https://raw.githubusercontent.com/chacharin/ollama_streamlit_RAG/main/RAG-Step.png)
 ---
 
 ## 🔹 ส่วนที่ 1: Document Ingestion
