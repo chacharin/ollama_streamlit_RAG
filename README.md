@@ -24,9 +24,11 @@ Retrieval-Augmented Generation (RAG) Pipeline แบ่งออกเป็น 
 
 ## 🔹 ส่วนที่ 2: Retrieval และ Generation
 ### 📌 เครื่องมือที่ใช้
-✅ Chroma.as_retriever() → ค้นหาข้อมูลที่เกี่ยวข้องจาก Vector Store
-✅ ChatOllama → ใช้ LLM (Llama3.1) สร้างคำตอบจากข้อมูลที่ค้นพบ
-✅ Streamlit → สร้าง Web App ให้ผู้ใช้ถามคำถามและรับคำตอบ
+
+✅ Chroma.as_retriever() → ค้นหาข้อมูลที่เกี่ยวข้องจาก Vector Store  
+✅ ChatOllama → ใช้ LLM (Llama3.1) สร้างคำตอบจากข้อมูลที่ค้นพบ  
+✅ Streamlit → สร้าง Web App ให้ผู้ใช้ถามคำถามและรับคำตอบ  
+
 ### 📌 กระบวนการทำงาน
 - **User Query** → ผู้ใช้พิมพ์คำถามใน **Chat Bot Web App**  
 - **Embedding Model** → แปลงคำถามเป็นเวกเตอร์  
